@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="edit.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1163" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="printBoard.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="480" topLine="70" />
+		</Cursor>
+	</File>
+	<File name="incVal.c" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="structInit.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="396" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="fillBoard.c" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2509" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="isValid.c" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="isRemoved.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="377" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="gameOver.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="171" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="909" topLine="20" />
+		</Cursor>
+	</File>
+	<File name="move.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="993" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="sudoku.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="548" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="select.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="932" topLine="18" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

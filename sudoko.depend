@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1514524147 source:c:\users\yaboynick\documents\sudoku2\sudoko\main.c
+	"sudoku.h"
+
+1513540408 source:c:\users\yaboynick\documents\sudoku2\sudoko\eraser.c
+	"sudoku.h"
+
+1514052891 c:\users\yaboynick\documents\sudoku2\sudoko\sudoku.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<unistd.h>
+
+1514521832 source:c:\users\yaboynick\documents\sudoku2\sudoko\fillboard.c
+	"sudoku.h"
+
+1513543909 source:c:\users\yaboynick\documents\sudoku2\sudoko\incval.c
+	"sudoku.h"
+
+1513544112 source:c:\users\yaboynick\documents\sudoku2\sudoko\isvalid.c
+	"sudoku.h"
+
+1514519287 source:c:\users\yaboynick\documents\sudoku2\sudoko\move.c
+	"sudoku.h"
+
+1514523222 source:c:\users\yaboynick\documents\sudoku2\sudoko\printboard.c
+	"sudoku.h"
+
+1513542274 source:c:\users\yaboynick\documents\sudoku2\sudoko\quadfunc.c
+	"sudoku.h"
+
+1514518912 source:c:\users\yaboynick\documents\sudoku2\sudoko\select.c
+	"sudoku.h"
+
+1513622519 source:c:\users\yaboynick\documents\sudoku2\sudoko\structinit.c
+	"sudoku.h"
+
+1514519745 source:c:\users\yaboynick\documents\sudoku2\sudoko\edit.c
+	"sudoku.h"
+
+1513786057 source:c:\users\yaboynick\documents\sudoku2\sudoko\isremoved.c
+	"sudoku.h"
+
+1514047994 source:c:\users\yaboynick\documents\sudoku2\sudoko\gameover.c
+	"sudoku.h"
+
+1514519745 source:c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\edit.c
+	"sudoku.h"
+
+1514052891 c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\sudoku.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<unistd.h>
+
+1513540408 source:c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\eraser.c
+	"sudoku.h"
+
+1514521832 source:c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\fillboard.c
+	"sudoku.h"
+
+1514047994 source:c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\gameover.c
+	"sudoku.h"
+
+1513543909 source:c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\incval.c
+	"sudoku.h"
+
+1513786057 source:c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\isremoved.c
+	"sudoku.h"
+
+1513544112 source:c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\isvalid.c
+	"sudoku.h"
+
+1514524147 source:c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\main.c
+	"sudoku.h"
+
+1514519287 source:c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\move.c
+	"sudoku.h"
+
+1514523222 source:c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\printboard.c
+	"sudoku.h"
+
+1513542274 source:c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\quadfunc.c
+	"sudoku.h"
+
+1514518912 source:c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\select.c
+	"sudoku.h"
+
+1513622519 source:c:\users\yaboynick\documents\programming\c-cpp\sudoku2\sudoko\structinit.c
+	"sudoku.h"
+
